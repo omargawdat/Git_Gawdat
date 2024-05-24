@@ -604,7 +604,9 @@ commit, or may require conflict resolution when changes overlap in conflicting w
     - **Explanation:** This type of merge condenses all the changes from the source branch into a single commit on the
       target branch. The history of the source branch is not preserved, and the changes is just staged without actual
       committing them.
-    <img width="478" alt="image" src="https://github.com/omargawdat/Git_Gawdat/assets/53629777/d24ff0cb-157f-43e0-809e-79fce15ca578">
+      
+      <img width="404" alt="image" src="https://github.com/omargawdat/Git_Gawdat/assets/53629777/edd42cc1-0d19-4e62-be0c-667929b202a2">
+
 ---
 
 ## Git rebase
