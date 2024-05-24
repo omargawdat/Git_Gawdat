@@ -248,6 +248,9 @@ that is not ready to commit, allowing you to switch contexts quickly and maintai
 
 The `git commit` command captures a snapshot of your project's currently staged changes, saving them to your local
 repository as a new commit.
+![image](https://github.com/omargawdat/Git_Gawdat/assets/53629777/41d0dc01-fbca-4d1d-8c91-1023a4c1b15e)
+
+
 
 ### **Usage:**
 
@@ -612,7 +615,8 @@ The `git rebase` command is used to move or combine a sequence of commits to a n
 alternative to merging that can help maintain a cleaner, more linear project history. Rebasing rewrites the commit
 history by applying changes from one branch onto another, which can simplify the merging process.
 
-<img width="768" alt="image" src="https://github.com/omargawdat/Git_Gawdat/assets/53629777/7eb3648c-ac9e-4dbb-9b59-741ba691cf5e">
+<img width="504" alt="image" src="https://github.com/omargawdat/Git_Gawdat/assets/53629777/f81f8b6b-66f2-4158-9b07-e4f5d304a577">
+
 
 ### Warning:
 
@@ -917,8 +921,7 @@ which integrates those changes into your local branch).
 
     - **Explanation:** This fetches and merges changes from all branches in the remote repository into their
       corresponding local branches.
-
-   ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2225daf2-69fb-4fd3-916e-42f5968f89c9/eabb9f9b-d4eb-4e7f-ac12-3031220351ae/Untitled.png)
+    <img width="746" alt="image" src="https://github.com/omargawdat/Git_Gawdat/assets/53629777/21da1564-b680-48a4-989d-98c7db4fb436">
 
 # Git Commands [History]
 
