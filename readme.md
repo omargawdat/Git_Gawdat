@@ -592,6 +592,7 @@ commit, or may require conflict resolution when changes overlap in conflicting w
         
         ```
 
+
     - **Explanation:** This command aborts the merge process and returns your project to the state before the merge
       began, effectively undoing the merge attempt and leaving `main` at commit `C` and `feature_branch` at commit `E`.
 2. **Squash Merge:**
